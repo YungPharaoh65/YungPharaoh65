@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="waving hand" width="30px">, I'm Prince Mpho Msimango</h1>
-<h3 align="center">I like Coffee, Angular and learning new technologies😄👍🏿❤ </h3>
+<h2 align="center">I like Coffee, ANGULAR and learning new technologies😄👍🏿❤ </h2>
 
 <br/><br/><br/>
 
