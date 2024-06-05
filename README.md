@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="waving hand" width="30px">, I'm Prince Mpho Msimango</h1>
 <h3 align="center">I like Coffee, Angular and learning new technologies😄👍🏿❤ </h3>
 
-<br/>
+<br/><br/><br/>
 
 <img align="right" width="300" src="https://cdn.dribbble.com/users/13953276/screenshots/20261122/media/cbfbd90030158542ef9151cd7c0536c5.gif" alt="Coding">
 
