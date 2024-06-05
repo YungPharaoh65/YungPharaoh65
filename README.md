@@ -5,13 +5,13 @@
 
 <img align="right" width="300" src="https://cdn.dribbble.com/users/13953276/screenshots/20261122/media/cbfbd90030158542ef9151cd7c0536c5.gif" alt="Coding">
 
-- 🔭 I’m currently working on something amazing   **(CHECK IT OUT!!!!😭😭)**
+- 🔭 Currently working on something amazing   **(CHECK IT OUT!!!!😭😭)**
 
-- 🌱 I’m currently learning **Mongodb/Nodejs**
+- 🌱 Currently learning **Mongodb/Nodejs**
 
-- 👯 I’m looking to collaborate on **Anything Front or Backend related...for experience and networking**
+- 👯 Looking to collaborate on **Anything Front or Backend related...for experience and networking**
 
-- 📫 How to reach me **princemsimango27@gmail.com**
+- 📫 Reach me HERE: **princemsimango27@gmail.com OR on Media 👍🏿❤**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
