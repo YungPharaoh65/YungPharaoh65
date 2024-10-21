@@ -7,7 +7,7 @@
 
 - 🔭 Currently working on something amazing   **(CHECK IT OUT!!!!😭😭)**
 
-- 🌱 Currently learning **Mongodb/Nodejs**
+- 🌱 Currently learning **MySQL/Nodejs**
 
 - 👯 Looking to collaborate on **Anything Front or Backend related...for experience and networking**
 
